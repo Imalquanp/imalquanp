@@ -10,7 +10,7 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/imalquanp/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/imalquanp/azure-network-protocols)
 - <b>Setting Up Virtual Private Network(VPN)</b>
-  - [Virtual Private Network (VPN) ProtoVPN](https://github.com/imalquanp/Installing-a-VPN)
+  - [Virtual Private Network (VPN) ProtoVPN](https://github.com/Imalquanp/Installing-a-VPN)
 
 - <b>Network Security Groups</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/imalquanp/AzureVM-NW-Protocols)
